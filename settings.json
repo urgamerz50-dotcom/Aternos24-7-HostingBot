@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "phuochn.aternos.me,
+    "port": 44999,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to NTP HELLO!",
         "I like to play Minecraft!"
       ]
     },
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1480087542983561308/bPOdme5J3UMwiIW9rT2pEOGY2fL3uAGUSqKs-eeXqlWtDIV9qGAhUSxSPgsO77kiWJm2",
     "events": {
       "connect": true,
       "disconnect": true,
