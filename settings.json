@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "Imhyst",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "ChaosBoundSmp.aternos.me",
+    "port": 51709,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
