@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "IDKEKSMP.aternos.me",
+    "port": 44115,
     "version": "",
     "try-creative": false
   },
