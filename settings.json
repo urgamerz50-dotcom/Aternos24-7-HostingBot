@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "FreshSMP-bckX.aternos.me",
+    "port": 15201,
     "version": "",
     "try-creative": false
   },
@@ -59,7 +59,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
