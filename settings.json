@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Foggysmp-me.aternos.me:37480",
+    "port": 37480,
     "version": "",
     "try-creative": false
   },
